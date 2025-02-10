@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://github.com/mxmzhang/hugo-mock-landing-page'
+title = "Farm To-Do"
+author = "Megan Zhang"
+copyright = "Megan Zhang"
 
 timeZone = 'Europe/London'
 
@@ -17,6 +17,7 @@ enableRobotsTXT = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
+# ignoreLogs = ['warning-goldmark-raw-html']
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
