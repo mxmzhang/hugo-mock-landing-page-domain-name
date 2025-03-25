@@ -4,3 +4,5 @@ This repo uses a GitHub Actions workflow that automatically builds and deploys t
 - Fetches submodules for themes
 - Publishes to the gh-pages branch using GitHub's authentication
 - Supports custom domain configuration (commented out by default)
+
+testing a change?
